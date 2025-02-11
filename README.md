@@ -61,10 +61,3 @@
   <img src="https://img.shields.io/badge/ML%20Enthusiast-%F0%9F%A7%AA-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hacker-%F0%9F%94%90-black?style=for-the-badge" />
 </p>
- 
-<p align="center">
-  <!-- Arctic Code Vault Contributor -->
-  <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" alt="Arctic Code Vault Contributor" />
-  <br> 
-  <em>Arctic Code Vault Contributor - Your code is preserved in the Arctic!</em>  
-</p>
