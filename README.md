@@ -1,9 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/el-dr/el-dr/blob/main/Banner.jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/Lumiquiver/Lumiquiver/blob/main/Banner.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm El-dr</h1>
+<h1 align="center">Hey there! 👋 I'm Lumiquiver</h1>
 <p align="center">
   <em>Pushing boundaries in code, creativity, and cool tech. 🚀</em>
 </p>
@@ -45,11 +45,11 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-dr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lumiquiver&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el-dr&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumiquiver&theme=dark" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-dr&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiquiver&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
