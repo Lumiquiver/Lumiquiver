@@ -185,11 +185,7 @@ Built using:
 # 📊 DEVELOPMENT ANALYTICS
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lumiquiver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiquiver&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
+  
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Lumiquiver&theme=tokyonight&hide_border=true&background=00000000"/>
