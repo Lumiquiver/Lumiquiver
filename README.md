@@ -1,168 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D0D0D,50:1A1A1A,100:3A4A3F&text=Lumiquiver&fontColor=D8C3A5&fontAlignY=38&desc=Forged%20in%20Kali%20Linux,%20tempered%20in%20Sanskrit.&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050505,25:0D1117,50:1A1A1A,75:3A4A3F,100:8C6A43&text=लुमिQuiver&fontSize=58&fontColor=D8C3A5&fontAlignY=36&desc=Forged%20in%20Kali%20Linux%20•%20Tempered%20in%20Sanskrit&descAlignY=53&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7CFF7C&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Cybersecurity+Builder+%7C+Open+Source;Building+systems+beyond+convention.;Ancient+philosophy+.+Modern+systems.;Retro+computing+enthusiast.;Entropy+%E2%80%A2+Elegance+%E2%80%A2+Execution" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=7CFF7C&center=true&vCenter=true&width=1000&lines=%5B+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%AD%E0%A4%BF%E0%A4%95%E0%A4%B0%E0%A4%A3...+%5D;%5B+systems+online+%5D;%5B+AI+modules+loaded+%5D;%5B+%E0%A4%AF%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E2%80%A2+%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF+%E2%80%A2+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%AF+%5D;%5B+Building+systems+beyond+convention+%5D" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-111111?style=for-the-badge&logo=openai&logoColor=7CFF7C"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=kalilinux&logoColor=7CFF7C"/>
+<img src="https://img.shields.io/badge/Open%20Source-111111?style=for-the-badge&logo=github&logoColor=7CFF7C"/>
+<img src="https://img.shields.io/badge/Retro%20Systems-111111?style=for-the-badge&logo=gnubash&logoColor=7CFF7C"/>
+
+<br><br>
+
+```txt
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║                 「 लुमिQuiver 」                      ║
+║                                                      ║
+║      Ancient philosophy • Modern infrastructure      ║
+║                                                      ║
+║      > initializing civilization...                  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+````
+
+<br>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Lumiquiver&style=for-the-badge&color=7CFF7C"/>
 
 </div>
 
 ---
 
-# 🜂 About Me
+# 🜂 SYSTEM PROFILE
 
-Johan FL / Lumiquiver
+```yaml
+Name: Johan FL
+Alias: Lumiquiver
+Codename: लुमिQuiver
 
-ENTP
-Builder of systems, experiments, and controlled chaos.
+Mindset:
+  - ENTP
+  - Builder
+  - Systems Thinker
+  - Controlled Chaos
 
-I work across:
-→ AI & Machine Learning
-→ Cybersecurity
-→ Automation
-→ Full Stack Engineering
-→ Retro Computing
+Domains:
+  - Artificial Intelligence
+  - Cybersecurity
+  - Automation
+  - Full Stack Engineering
+  - Experimental Computing
 
-Currently obsessed with:
-- intelligent systems
-- unconventional computing
-- open-source infrastructure
-- elegant terminal interfaces
-
-
-> *“Morals have aesthetic criteria.”*
-
----
-
-# ⚡ Philosophy
-
-```txt
-यंत्र • बुद्धि • विजय
-Machines • Intellect • Victory
-```
-
-```txt
-Civilizations were built by those obsessed enough to continue.
+Current Objective:
+  "Turn imagination into infrastructure."
 ```
 
 ---
 
-# 🧠 Tech Arsenal
+# ⚔️ PHILOSOPHY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,fastapi,html,css,mongodb,postgresql,docker,linux,bash,git,github,cs,cpp,tensorflow,pytorch,vscode" />
+```txt
+यंत्र • बुद्धि • विजय
+
+Machines • Intellect • Victory
+```
 
 </div>
 
 ---
 
-# 🚀 Signature Projects
+# 🧠 TECH ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,html,css,tailwind,mongodb,postgresql,docker,linux,bash,git,github,cpp,cs,tensorflow,pytorch,vscode&perline=7"/>
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🚨 DeerCard
 
-> Honeypot-based cybersecurity threat intelligence ecosystem.
-
-### Features
-
-* Real-time dashboard
-* Threat logging
-* Intrusion detection
-* API integrations
-* Alert systems
-* Threat intelligence updates
-
 ```txt
-Built for visibility.
-Designed for paranoia.
+Threat Intelligence Ecosystem
 ```
 
----
+A honeypot-powered cybersecurity infrastructure built for:
+
+* attack monitoring
+* threat logging
+* API integrations
+* live dashboards
+* intrusion analytics
+
+```diff
++ visibility-first architecture
++ designed for paranoia
+```
+
+</td>
+
+<td width="50%">
 
 ## 🤖 Roasty
 
-> AI roast engine powered by Python + roastedbyai.
-
-### Features
-
-* New York style humor
-* Interactive GUI
-* AI-generated roast chains
-* Tkinter interface
-
 ```txt
-Emotionally devastating.
-Technically elegant.
+Emotionally dangerous AI.
 ```
 
----
+An AI roast engine powered by:
+
+* Python
+* roastedbyai
+* Tkinter GUI
+* New York style humor
+
+```diff
++ chaotic
++ funny
++ technically elegant
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ## 🖥️ Quadinary Computing Ecosystem
-
-> A complete base-4 computing universe.
-
-### Includes
-
-* Quadinary VM
-* Custom OS
-* Programming language
-* Shell interface
-* Graphical environment
 
 ```txt
 Not everything has to be binary.
 ```
 
----
+A complete base-4 computing environment:
+
+* custom VM
+* shell system
+* OS layer
+* programming language
+* graphical interfaces
+
+</td>
+
+<td width="50%">
 
 ## 📚 StudySphere RAG
 
-> AI-powered study assistant for PDFs and notes.
+```txt
+AI-powered academic assistant.
+```
 
-### Features
+Built using:
 
+* Streamlit
 * Retrieval-Augmented Generation
-* Streamlit UI
-* Semantic search
-* Course-note intelligence
-* PDF learning assistant
+* semantic PDF querying
+* intelligent note systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 DEVELOPMENT ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lumiquiver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lumiquiver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiquiver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumiquiver&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lumiquiver&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 ---
 
-# 🔥 Streak Stats
+# 🛰️ CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lumiquiver&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lumiquiver&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
-
-# 🧬 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lumiquiver&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -172,62 +212,61 @@ Not everything has to be binary.
 
 ---
 
-# 🛰️ Current Status
+# ☕ TERMINAL STATUS
 
-```txt
-[ SYSTEM STATUS ]
+<div align="center">
 
-Learning:     Advanced AI systems
-Building:     Open-source infrastructure
-Researching:  Alternative computing models
-Listening:    Mechanical keyboard sounds
-Energy:       Caffeine + obsession
+```bash
+> booting lumiquiver.sys
+
+[✓] AI modules loaded
+[✓] cybersecurity systems active
+[✓] retro aesthetics enabled
+[✓] obsession levels critical
+[✓] civilization protocol initialized
+
+system status: operational
 ```
 
----
-
-# 🎮 Interests
-
-* Retro computing
-* Cyberpunk aesthetics
-* Terminal minimalism
-* Open-source ecosystems
-* AI experimentation
-* Minecraft engineering
-* Dr. Stone-level science energy
+</div>
 
 ---
 
-# 🌐 Connect
+# 🎮 INTEREST MATRIX
+
+| Science                | Aesthetics    |
+| ---------------------- | ------------- |
+| AI Systems             | Dark Academia |
+| Experimental Computing | Retro UNIX    |
+| Cybersecurity          | CRT Monitors  |
+
+| Entertainment         | Personality         |
+| --------------------- | ------------------- |
+| Dr. Stone             | ENTP                |
+| Minecraft Engineering | Strategic Obsession |
+| Sandbox Logic         | Controlled Chaos    |
+
+---
+
+# 🌐 NETWORK
 
 <div align="center">
 
 <a href="https://lumiquiver.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=7CFF7C"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=7CFF7C"/>
 </a>
 
 <a href="https://github.com/Lumiquiver">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ☕ Terminal Wisdom
-
-```bash
-while(alive){
-    eat();
-    code();
-    break_limits();
-    sleep();
-}
-```
-
----
-
 <div align="center">
+
+<br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
@@ -241,9 +280,8 @@ while(alive){
 
 <div align="center">
 
-```txt
-In a world of noise,
-become signal.
-```
+### 「 यंत्र • बुद्धि • विजय 」
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,100:3A4A3F"/>
 
 </div>
