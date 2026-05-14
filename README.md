@@ -66,9 +66,10 @@ Current Objective:
 
 ---
 
+<div align="center">
+  
 # ⚔️ PHILOSOPHY
 
-<div align="center">
 
 ```txt
 यंत्र • बुद्धि • विजय
